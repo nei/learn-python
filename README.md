@@ -1,2 +1,2 @@
 # learn-python
-Here are my solutions for checkio.org game wich I intend to learn some Python.
+Here are my solutions for checkio.org game which I intend to learn some Python.
